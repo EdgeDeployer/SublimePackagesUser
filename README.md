@@ -18,6 +18,5 @@ The packages include:
   * [RailsCasts Colour Scheme](https://sublime.wbond.net/packages/RailsCasts%20Colour%20Scheme) - Dark UI theme for Sublime Text 2 based on Ryan Bates (@rbates) RailsCasts TextMate theme.
   * [rbenv](https://sublime.wbond.net/packages/rbenv) - rbenv build system for Sublime Text 2
   * [RSpec (snippets and syntax)](https://sublime.wbond.net/packages/RSpec%20(snippets%20and%20syntax)) - Textmate bundle for RSpec.
-  * [RubyCheckOnSave](https://sublime.wbond.net/packages/RubyCheckOnSave) - Simple Sublime Text 2 Plugin that checks the syntax of ruby files after you save them
   * [Sass](https://sublime.wbond.net/packages/Sass) - Syntax highlighting and tab/code completion for Sass and SCSS files
   * [TrailingSpaces](https://sublime.wbond.net/packages/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
