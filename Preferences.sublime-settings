@@ -1,14 +1,12 @@
 {
-	"color_scheme": "Packages/Railscasts.tmTheme",
+	"color_scheme": "Packages/RailsCasts Colour Scheme/RailsCastsColorScheme.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 15.0,
 	"ignored_packages":
 	[
 		"Vintage",
 		"Twitter Bootstrap Snippets"
-	],
-	"rulers":
-	[
-		98
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,

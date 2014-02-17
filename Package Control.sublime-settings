@@ -4,7 +4,6 @@
 	[
 		"All Autocomplete",
 		"BeautifyRuby",
-		"CoffeeCompile",
 		"CoffeeScript",
 		"CSS Less(ish)",
 		"Emmet",
@@ -16,6 +15,7 @@
 		"Rails Latest Migration",
 		"Rails Partial",
 		"Rails Related Files",
+		"RailsCasts Colour Scheme",
 		"Rake",
 		"rbenv",
 		"RSpec (snippets and syntax)",
