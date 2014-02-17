@@ -5,8 +5,7 @@
 	"font_size": 15.0,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Twitter Bootstrap Snippets"
+		"Vintage"
 	],
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
