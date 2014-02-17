@@ -3,7 +3,20 @@ SublimePackagesUser
 
 Default User directory for SublimeText2 to allow new users to easily get their packages up to date
 
-The packages include:
+# Set Up
+
+```bash
+  # Backup old User directory
+  cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+  mv User/ UserBackUp
+  
+  # Clone repository as new User directory
+  git clone https://github.com/EdgeDeployer/SublimePackagesUser.git User
+```
+
+You can also for this repository and make your own that you can feel free to update at your own will.
+
+# Included Packages
 
   * [All Autocomplete](https://sublime.wbond.net/packages/All%20Autocomplete) - Extends the default autocomplete to find matches in all open files.
   * [CoffeeScript](https://sublime.wbond.net/packages/CoffeeScript) - Syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
